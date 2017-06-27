@@ -1,0 +1,48 @@
+nav{
+	background-color:#FFFFFF;
+	text-align: center;
+	margin: 40px 40px 40px 40px;
+	width: 1340px;
+	height:100px;
+}
+#naslov{
+	list-style:none;
+	display:inline;
+	font-family: 'Droid Serif', serif;
+	text-align: left;
+	width: 1340px;
+	height:100px;
+	margin: 20px 20px 20px 20px;
+	padding-left: 20px;
+}
+.clearfix{
+	float: right;	
+}
+h3{
+	margin: 20px 20px 20px 20px;
+	padding-left: 30px;
+}
+p{
+	margin: 20px 20px 20px 20px;
+	padding-left: 30px;
+}
+.text{
+	background-color:#FFFFFF;
+	width: 1340px;
+	height:100px;
+	padding: 30px;
+	text-align: justify-all;
+	margin: 20px 20px 20px 20px;
+}
+table{
+	margin: 20px 20px 20px 20px;
+	padding-left: 20px;
+	text-align: center;
+}
+tr: nth-child(even){
+	background:#242424;
+}
+td{
+	padding: 30px;
+}
+

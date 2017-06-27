@@ -1,0 +1,39 @@
+nav{
+	background-color:	#800080;
+	text-align: center;
+	margin: 5px 5px 5px 5px;
+	width: 1340px;
+	height:100px;
+	padding: 20px;
+}
+#list{
+	list-style:none;
+	float:left;
+	display:inline;
+	font-family: 'Droid Serif', serif;
+	padding: 40px;
+}
+li{
+	display:inline-block;
+	font-family: 'Droid Serif', serif;
+}
+a{
+	color: violet;
+	font-family: 'Droid Serif', serif;
+	text-align: center;
+	padding: 30px;
+}
+.clearfix{
+	clear: both;
+}
+body{
+	background-color:#f4c2c2;
+}
+form {
+	position: relative;
+	display:block;
+	color: 	#FF1493;
+	background-color: powderblue;
+	align-content: center;
+	margin: 50px 300px 200px 300px;
+}
